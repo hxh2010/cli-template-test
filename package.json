@@ -1,0 +1,9 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "repository": "https://github.com/hxh2010/cli-template-test.git",
+  "author": "hongxh <hongxh@vanke.com>",
+  "license": "MIT"
+}

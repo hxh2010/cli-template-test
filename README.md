@@ -1,2 +1,2 @@
-# cli-template-test
+# test
 脚手架测试模板
